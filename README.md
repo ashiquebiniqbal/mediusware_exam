@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Demo video : [Click here](https://drive.google.com/file/d/1keGX-VGjcwRF_QmgKUvOOxzVvRddapbE/view?usp=sharing)
+
+## Live link : [Click here](https://ananda89-taskman.web.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
